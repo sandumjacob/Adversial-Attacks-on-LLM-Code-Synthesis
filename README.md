@@ -4,5 +4,9 @@
 ## Injecting bad code onto code synthesis output
 
 # Prompt Injection
-# Langchain attacks
+All LLM output should be considered potentially dangerous.
+## Langchain
 https://security.snyk.io/package/pip/langchain
+
+# Supply chain attacks
+Compromising a popular LLM model or library to inject malicious code.
