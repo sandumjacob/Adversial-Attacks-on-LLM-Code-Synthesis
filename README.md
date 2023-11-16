@@ -5,7 +5,7 @@
 
 # Prompt Injection
 All LLM output should be considered potentially dangerous.
-## Langchain
+## Langchain Prompt Injection Examples
 https://security.snyk.io/package/pip/langchain
 
 # Supply chain attacks
